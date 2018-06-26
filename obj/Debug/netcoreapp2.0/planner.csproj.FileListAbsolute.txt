@@ -1,0 +1,10 @@
+C:\Users\Alina\Desktop\planner\bin\Debug\netcoreapp2.0\planner.deps.json
+C:\Users\Alina\Desktop\planner\bin\Debug\netcoreapp2.0\planner.runtimeconfig.json
+C:\Users\Alina\Desktop\planner\bin\Debug\netcoreapp2.0\planner.runtimeconfig.dev.json
+C:\Users\Alina\Desktop\planner\bin\Debug\netcoreapp2.0\planner.dll
+C:\Users\Alina\Desktop\planner\bin\Debug\netcoreapp2.0\planner.pdb
+C:\Users\Alina\Desktop\planner\obj\Debug\netcoreapp2.0\planner.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\planner\obj\Debug\netcoreapp2.0\planner.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\planner\obj\Debug\netcoreapp2.0\planner.AssemblyInfo.cs
+C:\Users\Alina\Desktop\planner\obj\Debug\netcoreapp2.0\planner.dll
+C:\Users\Alina\Desktop\planner\obj\Debug\netcoreapp2.0\planner.pdb
